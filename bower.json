@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap4-tutorial",
+  "homepage": "https://github.com/hmnayem/bootstrap4-tutorial",
+  "authors": [
+    "HM Nayem <hm.nayem.95@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9",
+    "font-awesome": "^5.0.6"
+  }
+}
